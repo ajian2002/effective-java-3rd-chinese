@@ -1,9 +1,3 @@
-- [CS-Notes-PDF](https://github.com/sjsdfg/CS-Notes-PDF) </br>
-
-## ✏️ CS-Notes-PDF
-
-- [CS-Notes-PDF](https://github.com/sjsdfg/CS-Notes-PDF) </br>
-
 ## 额外资源
 
 * [effective-java-2nd 中文版 ](https://pan.baidu.com/s/1R6H9UHbFYubWWY9HrclZ2A)
@@ -18,9 +12,6 @@ Effective Java 第三版翻译校对群：[909059971](https://jq.qq.com/?_wv=102
 
 
 
-## 友情链接
-
- - [On Java 8中文版 - 即 thinking in java 第五版](https://github.com/LingCoder/OnJava8)
 
 ## 📚 高效 Java 第三版
 
@@ -117,10 +108,5 @@ Effective Java 第三版翻译校对群：[909059971](https://jq.qq.com/?_wv=102
 
 ## 📖 高效 Java 第三版完整版阅读
 
-- [高效 Java 第三版完整版](doc/effective-java-3rd-chinese.md)</br>
+- [高效 Java 第三版完整版](https://ajian2002.github.io/effective-java-3rd-chinese)</br>
 
-
-## 😋 Give me a Favor
-<center>
-<img width="600" src="http://static.zybuluo.com/ZzzJoe/yflamvkjh2i7zn5qcp9wpj61/%E5%AF%92%E6%B2%A7.jpg" />
-</center>

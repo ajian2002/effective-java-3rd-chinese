@@ -1,7 +1,3 @@
-## ✏️ CS-Notes-PDF
-
-- [CS-Notes-PDF](https://github.com/sjsdfg/CS-Notes-PDF) 
-
 ## 📚 高效 Java 第三版
 
 - [01. 考虑使用静态工厂方法替代构造方法](notes/01.%20考虑使用静态工厂方法替代构造方法.md)
